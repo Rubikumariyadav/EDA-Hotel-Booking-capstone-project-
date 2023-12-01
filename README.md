@@ -3,8 +3,8 @@ Explore and analyze data to discover important factors in booking.In this data c
 # Data cleaning                                                                                                                        
 1.Removing Duplicates rows.                                                                                                       
 2.Handling null values.                                                                                                             
-# Removing outliers.
-   All duplicated were deleted.
+# Removing duplicates.
+   All duplicated rows were deleted.
 # creating new coulumns.                                                                                                                
 # Explore Data analysis. 
 1.Which hotel had higher lead time?                                                                                                                                                
@@ -18,18 +18,18 @@ Explore and analyze data to discover important factors in booking.In this data c
 9.which hotel has maximum number of booking in which month?                                                                        
 10.Which hotel has maximun number of booking?
 ## Some graph and plots has been used in any data to understand things more easily.                                               
- 1.Scatter pots                                                                                                                    
- 2.Line plot
- 3.Bar graph                                                                                                                        
- 4.Histograph graph   
- 5.Pie chart
- 6.Heatmap
- 7.Boxplot
+     1.Scatter pots                                                                                                                    
+     2.Line plot
+     3.Bar graph                                                                                                                        
+     4.Histograph graph   
+     5.Pie chart
+     6.Heatmap
+     7.Boxplot
 ## Conclusion 
-  *july and August are the most busier month.
-  *City hotel is busier than Resort hotel.
-  *Almost 30% booking are cancelled.
-  *Couples are the most common guests in hotel
+    *july and August are the most busier month.
+    *City hotel is busier than Resort hotel.
+    *Almost 30% booking are cancelled.
+    *Couples are the most common guests in hotel
 #  Common Data Visualization Challengers .                                                                              
     *A lot of null values  
     *Inacuurates scales 
