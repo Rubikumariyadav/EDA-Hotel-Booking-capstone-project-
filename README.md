@@ -3,7 +3,8 @@ Explore and analyze data to discover important factors in booking.In this data c
 # Data cleaning                                                                                                                        
 1.Removing Duplicates rows.                                                                                                       
 2.Handling null values.                                                                                                             
-# Removing outliers.                                                                                                                   
+# Removing outliers.
+   All duplicated were deleted.
 # creating new coulumns.                                                                                                                
 # Explore Data analysis. 
 1.Which hotel had higher lead time?                                                                                                                                                
@@ -17,10 +18,19 @@ Explore and analyze data to discover important factors in booking.In this data c
 9.which hotel has maximum number of booking in which month?                                                                        
 10.Which hotel has maximun number of booking?
 ## Some graph and plots has been used in any data to understand things more easily.                                               
- 1.scatter lpots                                                                                                                    
- 2.line
+ 1.Scatter pots                                                                                                                    
+ 2.Line plot
  3.Bar graph                                                                                                                        
- 4.Histograph                                                                                                                
-## Conclusion                                                                                                                             Almost 40% booking is cancelled and around 60% booking is city hotel.August nd SEptember are most busier month in these hotel
+ 4.Histograph graph   
+ 5.Pie chart
+ 6.Heatmap
+ 7.Boxplot
+## Conclusion 
+  *july and August are the most busier month.
+  *City hotel is busier than Resort hotel.
+  *Almost 30% booking are cancelled.
+  *Couples are the most common guests in hotel
 #  Common Data Visualization Challengers .                                                                              
-1.A lot of null values                                                                                                                   2.Inacuurates scales                                                                                                                     3.Lots of duplictaes data.etc
+    *A lot of null values  
+    *Inacuurates scales 
+    *Lots of duplictaes data.etc
