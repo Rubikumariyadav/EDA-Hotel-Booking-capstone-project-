@@ -1,0 +1,101 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyN/WzLS2fBkgWVITx4HJs2b",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Rubikumariyadav/EDA-Hotel-Booking-capstone-project-/blob/main/Campaign%20Effectiveness\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Project Name-Email Campaign Effectiveness Prediction"
+      ],
+      "metadata": {
+        "id": "T7Un1HUgv61p"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Projecg Type-Supervised ML Classification"
+      ],
+      "metadata": {
+        "id": "OK05Bl-lwBJW"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Contribution-Individual\n",
+        " **    Name-RUBI KUMARI**\n"
+      ],
+      "metadata": {
+        "id": "5CMjXS0nwU1G"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#***Project Summary***-The goal of this project is to create a machine learning model that can characaterize and track emails sent through market campaigns.One of the main challenges in email marketing is determine which emails are beign read,ignored or acknowledged by the reader.\n",
+        "\n",
+        "#We will split our data into a training set and a testing set.We will use the training set to fit the model and the testing set to evaluate its performance.\n",
+        "\n",
+        "# We will use a varities of martrics, such as precision, recallc ,F1 scores, to assess the model acuuracy.\n",
+        "\n",
+        "#once the model is trained and evaluted it can be deployed in aproduction enviroment to help small to medium business owners of their marketing campaign.By usin the model they will ve able to characterisied and track emails they will be able to make more information decision about how to target their marketing efforts ad increasing customer.\n",
+        "\n",
+        "# Overall this project aims to provide small to medium busines owners with a powerful tool for improving the effeactiveness of their campaign.By using machinne learning to characterisied and track emails, they chance of success for their marketing.\n",
+        "      \n"
+      ],
+      "metadata": {
+        "id": "eqbMloUHwqWY"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# GitHub link-"
+      ],
+      "metadata": {
+        "id": "oH9ChlkJ1uo_"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "YHmSphwp3lCQ"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "8tvkdEry145m"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
